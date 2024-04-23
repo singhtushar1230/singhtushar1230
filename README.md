@@ -1,23 +1,33 @@
+
+ <p align="center"><img src="https://cloud.githubusercontent.com/assets/7135226/15222321/c539efee-1877-11e6-96b6-68313b164a0c.gif"  width="200" />
+<p align="center">
+
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Waving Hand GIF" width="200" />
+ 
+</p>
+
+
 <h1 align="center">Hey there 👋, I'm Tushar Singh</h1>
 <h3 align="center">I'm a pre-final year BTech Computer Science student with a specialization in Data Science. My passion lies in transforming raw data into actionable insights.</h3>
 
-- 🔭 I’m currently looking for **internship opportunities in Data Science.**
 
-- 🌱 I’m currently learning **Data Architecture, Pytorch, Tensorflow, Snowflake, Data Governance, Apache**
+- 🔭 I’m currently looking for *internship opportunities in Data Science.*
 
-- 👯 I’m looking to collaborate with **data science team | Full Stack Developers on projects that combine data science with web development or any domain.**
+- 🌱 I’m currently learning *Data Architecture, Pytorch, Tensorflow, Snowflake, Data Governance, Apache*
 
-- 🤝 I’m looking for help in **exploring various areas where they can be applied, such as interoperability and smart contract auditing.**
+- 👯 I’m looking to collaborate with *data science team | Full Stack Developers on projects that combine data science with web development or any domain.*
+
+- 🤝 I’m looking for help in *exploring various areas where they can be applied, such as interoperability and smart contract auditing.*
 
 - 📝 I regularly read articles on [Tech Industry](Tech Industry)
 
-- 💬 Ask me about **Technology**
+- 💬 Ask me about *Technology*
 
-- 📫 Reach me at **stushar354@gmail.com**
+- 📫 Reach me at *stushar354@gmail.com*
 
 - 📄 Know about my experiences [Data Sci Intern at Hashbugs pvt ltd.](Data Sci Intern at Hashbugs pvt ltd.)
 
-- ⚡ fact **I thrive on extracting meaningful patterns through data visualization and analysis.**
+- ⚡ fact *I thrive on extracting meaningful patterns through data visualization and analysis.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
