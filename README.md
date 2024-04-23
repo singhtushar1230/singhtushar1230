@@ -1,5 +1,5 @@
 
- <p align="center"><img src="https://cloud.githubusercontent.com/assets/7135226/15222321/c539efee-1877-11e6-96b6-68313b164a0c.gif"  width="200" />
+
 <p align="center">
 
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Waving Hand GIF" width="200" />
