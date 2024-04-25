@@ -1,5 +1,6 @@
-
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="400">
+<br><br>
 <p align="center">
 
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Waving Hand GIF" width="200" />
@@ -11,7 +12,7 @@
 <h3 align="center">I'm a pre-final year BTech Computer Science student with a specialization in Data Science. My passion lies in transforming raw data into actionable insights.</h3>
 
 
-- 🔭 I’m currently looking for *internship opportunities in Data Science.*
+- 🔭 I’m currently looking for *i**nternship opportunities in Data Science**.*
 
 - 🌱 I’m currently learning *Data Architecture, Pytorch, Tensorflow, Snowflake, Data Governance, Apache*
 
@@ -19,13 +20,13 @@
 
 - 🤝 I’m looking for help in *exploring various areas where they can be applied, such as interoperability and smart contract auditing.*
 
-- 📝 I regularly read articles on [Tech Industry](Tech Industry)
+- 📝 I regularly read articles on Tech 
 
 - 💬 Ask me about *Technology*
 
 - 📫 Reach me at *stushar354@gmail.com*
 
-- 📄 Know about my experiences [Data Sci Intern at Hashbugs pvt ltd.](Data Sci Intern at Hashbugs pvt ltd.)
+- 📄 Know about my experiences Data Science intern at **Hashbugs pvt ltd**.
 
 - ⚡ fact *I thrive on extracting meaningful patterns through data visualization and analysis.*
 
